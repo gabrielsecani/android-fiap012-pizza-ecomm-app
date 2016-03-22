@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtPizzaMucarela">Musarela</string>
+    <string name="txtPizzaComBorda">With border?</string>
+    <string name="txtPizzaCalabresa">Calabresa</string>
+    <string name="txtButtonCalcular">CALCULAR</string>
+    <string name="txtPizzaPortuguesa">Portuguesa</string>
+</resources>

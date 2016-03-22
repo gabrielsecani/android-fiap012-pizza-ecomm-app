@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">PizzaEcommerceApp</string>
+    <string name="txtPizzaMucarela">Muçarela</string>
+    <string name="txtPizzaComBorda">Com Borda?</string>
+    <string name="txtPizzaCalabresa">Calabresa</string>
+    <string name="txtButtonCalcular">CALCULAR</string>
+    <string name="txtPizzaPortuguesa">Portuguesa</string>
+</resources>
